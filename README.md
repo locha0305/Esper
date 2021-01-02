@@ -5,7 +5,9 @@ This library provides an Esper object which is an customized object with variabl
 
 
 penguin = esper({
-                "can_fly":True
-                "is_bird":True
-                "height":60
+                "can_fly":True,
+                
+                "is_bird":True,
+                
+                "height":60,
                 })
