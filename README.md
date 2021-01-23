@@ -1,11 +1,15 @@
 # Esper
-A python library for calculation between customized objects
+A advanced nodetype - type builder
+Just 'Class' part from ALPL
 
-This library provides an Esper object which is an customized object with variables
 
-
-    penguin = esper({
-                "can_fly":True,
-                "is_bird":True,
-                "height":60,
-                })
+    Class bird{
+        can_fly : True
+        name : "bird"
+        legs : 2
+        head : 1
+    }
+    
+    Class bird penguin{
+        can_fly : False
+    }
