@@ -1,0 +1,6 @@
+Class a{
+    x : 1
+}
+Class a b{
+    x : 12
+}
